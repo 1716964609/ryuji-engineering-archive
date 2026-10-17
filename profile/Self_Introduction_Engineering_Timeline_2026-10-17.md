@@ -4,7 +4,7 @@
 - IT Consultant & Infra Engineer
 - Trilingual- EN, JP, CN
 - Three Mindset- Eco & Product, Tech, Law
-- Extrem Vilocity in- learn, systemize, build & feedback
+- Extrem Vilocity in- Learn & Self-taught, Systemize, Build & Feedback Loop
 
 ## Timeline
 
