@@ -1,9 +1,9 @@
 # Self-Introduction
 
 **Ryuji Shiraishi(JP)/ LIU CHENXI(CN)**
-- IT Consultant/ AI Native Engineer/ Infra Engineer
-- Trilingual-EN, JP, CN
-- Three Mindset Eco & Product, Tech, Law
+- IT Consultant & Infra Engineer
+- Trilingual- EN, JP, CN
+- Three Mindset- Eco & Product, Tech, Law
 
 
 ## Timeline
