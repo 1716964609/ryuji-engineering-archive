@@ -5,6 +5,7 @@
 - Trilingual- EN, JP, CN
 - Three Mindset- Eco & Product, Tech, Law
 - Extrem Vilocity in- Learn & Self-taught, Systemize, Build & Feedback Loop
+- Always look into the best practice globally, it saves your time.
 
 ## Timeline
 
