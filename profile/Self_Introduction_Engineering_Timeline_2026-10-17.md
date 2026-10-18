@@ -109,6 +109,7 @@
 
 **AI-Native Security Test**
 - Bug hunting using DeepSec.
+- Bugs Found in OSSs published by famous tech companys, report them later.(Like in Web App, MCP tool, CICD soft, LLM Framework)
 
 **AI-Native Penetration Testing**
 - **ToDo**
