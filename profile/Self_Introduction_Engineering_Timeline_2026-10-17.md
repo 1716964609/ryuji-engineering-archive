@@ -49,7 +49,7 @@
 
 ### August 2026 — Independent Research
 - Expanded my independent research into:
-  - GMS v3 and DevOps
+  - GMS v3, v4, v5 and DevOps
   - Site Reliability Engineering (SRE)
   - Platform Engineering proof of concept (PoC)
   - Harness Engineering and Context Engineering
