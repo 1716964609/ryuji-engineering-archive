@@ -49,13 +49,13 @@
 
 ### 2026年8月 — 個人研究の拡大
 - 以下の領域を中心に、独立した技術研究を展開：
-  - GMS v3・DevOps
+  - GMS v3・v4・v5・DevOps
   - Site Reliability Engineering（SRE）
   - Platform EngineeringのPoC
   - Harness Engineering・Context Engineering
   - AI支援によるコードのセキュリティ解析・ペネトレーションテスト研究
   - Spec-Driven Development（SDD）、Test-Driven Development（TDD）、Extreme Programming（XP）
-  - AIネイティブなインフラ・コーディングのエンドツーエンドワークフロー
+  - AIネイティブなインフラ・コーディングのエンドツーエンドワークフロー(AI-DLC, AIUP)
 
 ## プロジェクト
 
